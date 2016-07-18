@@ -1,0 +1,45 @@
+table, td, th {	border: solid 1px silver; color:#666; padding:3px 5px 3px 5px}
+th { background-color:#F57A38; color:#fff; font-size:0.85em }
+a {	color:gray; }
+.filtering { background-color:#F57A38}
+.proyecto{
+    border: 1px solid #F57A38;
+    border-radius: 6px;
+    padding: 45px 45px 20px;
+    margin-top: 50px;
+    background-color: white;
+    box-shadow: 0px 5px 10px #F57A38, 0 0 0 10px #F57A38 inset;
+}
+#jqtf_filters {
+    list-style:none;
+
+}
+#jqtf_filters li {
+    display:inline-block; 
+    position:relative; 
+    float:left;
+    margin-bottom:20px
+}
+form label.error {
+    /*float: left;*/
+    color: #F57A38;
+    font-weight: normal;
+    padding-left: .5em;
+    vertical-align: central;
+}
+.divCelda {
+    border: 1px solid #D8D8D8;
+    margin-top: 2px;
+}
+.divEncabezado {
+    border: 1px solid #F57A38;
+    background-color: #F57A38;
+    color: #fff;
+    margin-top: 2px;
+}
+.divProNac {
+    background-color: #E9FFC8;
+}
+.valError {
+    color: red;
+}
