@@ -1,0 +1,17 @@
+body {
+     font: 15px calibri; 
+}
+th {
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #5882FA;
+    padding: 0px 10px;
+}
+.titulo {
+    font-size: 24px; 
+    font-style: bold; 
+}
+
+.trRegistros {
+    background-color: #A9D0F5;
+}
